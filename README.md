@@ -13,4 +13,4 @@
 5. Your bot should now be online and display a player count.
 
 #### Screenshot
-![](https://imgur.com/a/RufNBqO)
+![](https://imgur.com/a/RufNBqO.png)
