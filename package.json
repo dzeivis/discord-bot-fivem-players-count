@@ -1,0 +1,15 @@
+{
+  "name": "fivem_member_count",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Deividas",
+  "license": "ISC",
+  "dependencies": {
+    "discord-fivem-api": "^2.0.2",
+    "discord.js": "^14.13.0"
+  }
+}
