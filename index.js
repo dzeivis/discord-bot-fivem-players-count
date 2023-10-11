@@ -6,7 +6,7 @@ const api = new DiscordFivemApi(config.fivem_api, true, true)
 
 const client = new Client({
     intents: [
-		GatewayIntentBits.Guilds,
+	GatewayIntentBits.Guilds,
         GatewayIntentBits.GuildScheduledEvents,
         GatewayIntentBits.GuildMessageTyping,
         GatewayIntentBits.GuildInvites,
